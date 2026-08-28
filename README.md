@@ -71,7 +71,7 @@ Each entry shows a timestamp, level badge, and — when stack traces are enabled
 3. Paste the following and press Enter:
 
 ```js
-Game.LoadMod("https://raw.githubusercontent.com/r33yl/ConsoleLogger/refs/heads/main/main.js");
+Game.LoadMod("https://r33yl.github.io/ConsoleLogger/main.js");
 ```
 
 ## For mod authors
