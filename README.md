@@ -4,8 +4,6 @@ A Cookie Clicker mod that brings a built-in log viewer directly into the game �
 
 **[Steam Workshop →](https://steamcommunity.com/sharedfiles/filedetails/?id=3760038154)**
 
----
-
 ## What it does
 
 Opens with **Ctrl+L**. Captures and displays:
@@ -17,8 +15,6 @@ Opens with **Ctrl+L**. Captures and displays:
 - Network errors (fetch / XHR)
 
 Each entry shows a timestamp, level badge, and — when stack traces are enabled — a full call stack with clickable **VS Code / JetBrains** jump links.
-
----
 
 ## Features
 
@@ -58,8 +54,6 @@ Each entry shows a timestamp, level badge, and — when stack traces are enabled
 ### Themes
 🌑 Dark · 🦊 Gruvbox · 🟢 Steam 2009 · ⛩️ Tokyo Night · 💗 Neon
 
----
-
 ## Installation
 
 ### Steam (Workshop)
@@ -92,8 +86,6 @@ console.time('init'); /* ... */ console.timeEnd('init');
 ```
 
 Errors thrown anywhere in your mod will be caught and shown automatically.
-
----
 
 ## License
 
