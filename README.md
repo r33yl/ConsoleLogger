@@ -4,7 +4,7 @@ A Cookie Clicker mod that brings a built-in log viewer directly into the game â€
 
 **[Steam Workshop â†’](https://steamcommunity.com/sharedfiles/filedetails/?id=3760038154)**
 
-<img width="643" height="849" alt="image" src="https://github.com/user-attachments/assets/41d3b2f5-0c60-422e-903a-7f52afe7eebf" />
+<img width="818" height="757" alt="image" src="https://github.com/user-attachments/assets/3e44b616-9bc5-4c0f-81b8-8bbd3fca7929" />
 
 ## What it does
 
