@@ -1,0 +1,13 @@
+{
+ "Name": "Console Logger",
+ "ID": "ConsoleLogger",
+ "Author": "reeyl",
+ "Description": "View game logs in an in-game console.",
+ "ModVersion": 1.5,
+ "GameVersion": 2.053,
+ "Date": "28/06/2026",
+ "Dependencies": [],
+ "Disabled": 1,
+ "AllowSteamAchievs": 1,
+ "Workshop": "3760038154"
+}
